@@ -1,5 +1,3 @@
-#how to do the cicd deployment with github action and aws?
-
 name: workflow
 
 on:
